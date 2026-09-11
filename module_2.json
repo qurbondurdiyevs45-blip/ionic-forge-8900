@@ -1,0 +1,15 @@
+{
+  "name": "ionic-forge-8900",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9750,
+    "createdAt": "2026-09-11T15:02:29.336Z"
+  }
+}
